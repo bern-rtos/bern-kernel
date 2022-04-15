@@ -1,3 +1,5 @@
+**This repository moved to https://gitlab.com/bern-rtos/bern-rtos.**
+
 # `bern-kernel`
 
 Bern RTOS preemptive real-time kernel for microcontrollers written in Rust.
